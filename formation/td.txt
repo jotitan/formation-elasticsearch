@@ -1,0 +1,14 @@
+Pour le TD
+
+Installation d'un ES et configuration
+	Téléchargement d'un .deb et installation
+	Explication du fichier yml (/etc/elasticsearch
+		Configuration d'un nom de cluster unique
+		Replica a zero et observation
+Installation en local d'un cluster ES
+	Téléchargement du standalone
+	Configuration du fichier yml
+	Lancement de plusieurs noeuds et observation sur le plugin head
+	paramétrage à 2 replicas, il faut lancer lancer 3 noeuds
+	Arret d'un noeud et répartition des shards
+	
