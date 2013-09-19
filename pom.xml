@@ -1,0 +1,19 @@
+<project>
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>fr.titan</groupId>
+   <version>1.0</version>
+   <artifactId>formation-elasticsearch</artifactId>
+   <packaging>pom</packaging>
+   <name>Formation</name>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>org.elasticsearch</groupId>
+            <artifactId>elasticsearch</artifactId>
+            <version>0.90.3</version>
+        </dependency>
+
+    </dependencies>
+
+</project>
